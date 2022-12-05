@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushalg-1212
 - 👀 I’m interested in DevOps , Blockchain Developemtns , CI/CD and Code as Infrastructure
-- 🌱 I’m currently learning Kubernetes , Solidity 
+- 🌱 I’m currently learning Kubernetes , Solidity and DPOS Chanis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.freelancer.com/hireme/kushalghimire2
 
